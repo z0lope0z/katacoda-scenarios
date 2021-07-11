@@ -16,6 +16,11 @@
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "host01": [
+        {"file": "deploy.yaml", "target": "/root/"}
+      ]
     }
   },
   "environment": {

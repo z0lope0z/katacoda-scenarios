@@ -1,2 +1,2 @@
 launch.sh
-kubectl scale --replicas=0 Deployment/coredns -n kube-system
+kubectl scale --replicas=0 Deployment/coredns -n kube-system >> /root/.logs

@@ -12,7 +12,8 @@
     ],
     "intro": {
       "text": "intro.md",
-      "courseData": "set-env.sh"
+      "courseData": "set-env.sh",
+      "code": "set-env.sh"
     },
     "finish": {
       "text": "finish.md"

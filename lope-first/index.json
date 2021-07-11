@@ -7,12 +7,12 @@
     "steps": [
       {
         "title": "Step 1",
-        "text": "step1.md",
-        "code": "set-env.sh"
+        "text": "step1.md"
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "set-env.sh"
     },
     "finish": {
       "text": "finish.md"

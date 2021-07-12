@@ -1,6 +1,7 @@
-install ping
-`apt update`{{execute}}
-`apt install -y inetutils-ping`{{execute}}
+Hello Goodnotes DevOps engineer!
 
-install curl
-`apt install -y curl`{{execute}}
+The engineers are reporting an error that nginx cannot reach their application. 
+Can you help me check and resolve why this is the case?
+
+version 1.1
+

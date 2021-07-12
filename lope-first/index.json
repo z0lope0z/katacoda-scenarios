@@ -19,7 +19,9 @@
     },
     "assets": {
       "host01": [
-        {"file": "deploy.yaml", "target": "/root/"}
+        {"file": "deploy.yaml", "target": "/root/"},
+        {"file": "nginx.yaml", "target": "/root/"},
+        {"file": "svc.yaml", "target": "/root/"}
       ]
     }
   },

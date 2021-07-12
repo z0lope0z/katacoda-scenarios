@@ -1,3 +1,9 @@
+check nodes
+`kubectl get nodes`{{execute}}
+
+check pods
+`kubectl get pods -A`{{execute}}
+
 install ping
 
 `apt update`{{execute}}
